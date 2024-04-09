@@ -1,13 +1,12 @@
 # Domina Python: Limpieza de datos
 
-Este es el repositorio del curso de LinkedIn Learning `[nombre del curso]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
+Este es el repositorio del curso de LinkedIn Learning `Domina Python: Limpieza de datos`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
 ![Nombre completo del curso][lil-thumbnail-url] 
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
-
-DESCRIPCIÓN DEL CURSO
+Este curso está dirigido a analistas de datos, personas ingenieras de datos y científicos de datos que buscan perfeccionar sus habilidades en limpieza utilizando Python. Aprende a enfrentar y resolver problemas específicos en la exploración, limpieza y preprocesamiento de datos. El contenido del curso se estructura meticulosamente en tres secciones principales: exploración de datos, limpieza de datos y preprocesamiento, facilitando un aprendizaje enfocado y práctico. Con este curso, adquirirás las competencias necesarias para optimizar tus procesos de análisis de datos, mejorando la calidad y la eficiencia de tu trabajo con Python.
 
 ## Instrucciones
 

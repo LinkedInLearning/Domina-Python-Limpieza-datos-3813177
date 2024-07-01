@@ -33,7 +33,7 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
 Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/lincy-gonzalez-rojas).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https:
+[lil-course-url]: https://www.linkedin.com/learning/domina-python-limpieza-de-datos
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D4E0DAQHqtAYqb9iU4w/learning-public-crop_675_1200/0/1718610242032?e=2147483647&v=beta&t=qMy90doMHaZZP0fwaURXb1X2M00efSfQS_7u_6X4yRs
 
 [1]: # (End of ES-Instruction ###############################################################################################)
